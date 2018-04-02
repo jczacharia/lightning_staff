@@ -1,4 +1,10 @@
-﻿#include "ADXL345.h"
+﻿//------------------------------------------------------------------------------
+// File:          		Stotem.cpp
+// Written By:   		Jeremy Zacharia
+// Written For: 		Main .cpp file for Lightning Staff
+//------------------------------------------------------------------------------
+
+#include "ADXL345.h"
 #include "Menus.h"
 
 
