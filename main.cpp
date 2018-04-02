@@ -1,5 +1,5 @@
 ﻿//------------------------------------------------------------------------------
-// File:          		Stotem.cpp
+// File:          		main.cpp
 // Written By:   		Jeremy Zacharia
 // Written For: 		Main .cpp file for Lightning Staff
 //------------------------------------------------------------------------------
