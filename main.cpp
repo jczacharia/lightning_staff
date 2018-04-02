@@ -1,7 +1,7 @@
 ﻿//------------------------------------------------------------------------------
 // File:          		main.cpp
 // Written By:   		Jeremy Zacharia
-// Written For: 		Main .cpp file for Lightning Staff
+// Description: 		main source | Lightning Staff
 //------------------------------------------------------------------------------
 
 #include "ADXL345.h"
